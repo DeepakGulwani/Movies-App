@@ -28,4 +28,3 @@ A clean Android movies app built with Jetpack Compose. Browse trending and now-p
    ```
 3. Build and run
 
-> `local.properties` is git-ignored by default — your key stays local.
