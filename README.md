@@ -19,12 +19,3 @@ A clean Android movies app built with Jetpack Compose. Browse trending and now-p
 - **Images** — Coil
 - **Async** — Kotlin Coroutines + Flow
 
-## Setup
-
-1. Get a free API key from [themoviedb.org](https://www.themoviedb.org/settings/api)
-2. Add it to your `local.properties`:
-   ```
-   TMDB_API_KEY=your_api_key_here
-   ```
-3. Build and run
-
